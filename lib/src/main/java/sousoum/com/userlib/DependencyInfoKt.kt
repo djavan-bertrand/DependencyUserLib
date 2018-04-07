@@ -24,6 +24,6 @@ public class DependencyInfoKt {
      * @return a string
      */
     public fun useDependencyFunction(): String {
-        return libInfo.v1Function()
+        return libInfo.v2Function()
     }
 }

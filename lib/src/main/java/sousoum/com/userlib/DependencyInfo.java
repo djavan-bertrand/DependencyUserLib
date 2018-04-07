@@ -27,6 +27,6 @@ public class DependencyInfo {
      */
     @NonNull
     public String useDependencyFunction() {
-        return libInfo.v1Function();
+        return libInfo.v2Function();
     }
 }
